@@ -58,9 +58,8 @@ to institutional risk metrics:
 Correlation → Drawdown → Dynamic Risk → VaR / ES → Stress Testing → 
 Macroeconomic Factors**
 
-## Notebook
-
-[`WQU_Financial_Assets.ipynb`](./WQU_Financial_Assets.ipynb)
+- [Presentation (PDF)](./WQU_Financial_Assets_Presentation.pdf)
+- [Google Colab / Jupyter Notebook](./WQU_Financial_Assets.ipynb)
 
 The notebook can be opened directly in Jupyter Notebook or Google Colab.
 
